@@ -207,7 +207,7 @@
 								<fo:table-body>
 									<fo:table-row>
 										<fo:table-cell>
-											<fo:block font-size="48pt">JC</fo:block>
+											<fo:block font-size="48pt"><fo:external-graphic content-height="20mm" src="url('https://raw.githubusercontent.com/uayebforever/jc-jira/master/resources/James-Craig-Ship-Only.png')"/></fo:block>
 										</fo:table-cell>
 										<fo:table-cell>
 											<fo:block font-size="12pt">$xmlutils.escape($title)</fo:block>
